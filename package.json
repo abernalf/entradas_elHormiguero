@@ -1,0 +1,24 @@
+{
+  "name": "entradas_elhormiguero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinegua/entradas_elHormiguero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinegua/entradas_elHormiguero/issues"
+  },
+  "homepage": "https://github.com/Chinegua/entradas_elHormiguero#readme",
+  "dependencies": {
+    "mail": "^0.2.3",
+    "nodemailer": "^4.6.0",
+    "request": "^2.83.0"
+  }
+}
